@@ -58,13 +58,10 @@ python evaluate.py --pred-dir "Path_to_predict_results" --gt-dir "Path_to_gt_sam
 If you find our work useful for your research, please consider citing our paper and giving this repository a star 🌟.
 
 ```bibtex
-@misc{liu2025controllablelayerdecompositionreversible,
-    title={Controllable Layer Decomposition for Reversible Multi-Layer Image Generation}, 
-    author={Zihao Liu and Zunnan Xu and Shi Shu and Jun Zhou and Ruicheng Zhang and Zhenchao Tang and Xiu Li},
-    year={2025},
-    eprint={2511.16249},
-    archivePrefix={arXiv},
-    primaryClass={cs.GR},
-    url={https://arxiv.org/abs/2511.16249}, 
+@article{liu2025controllable,
+  title={Controllable Layer Decomposition for Reversible Multi-Layer Image Generation},
+  author={Liu, Zihao and Xu, Zunnan and Shu, Shi and Zhou, Jun and Zhang, Ruicheng and Tang, Zhenchao and Li, Xiu},
+  journal={arXiv preprint arXiv:2511.16249},
+  year={2025}
 }
 ```
