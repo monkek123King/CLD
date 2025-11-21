@@ -1,0 +1,23 @@
+seed: 42
+max_layer_num: 52
+num_inference_steps: 28
+
+lora_rank: 64
+lora_alpha: 64
+lora_dropout: 0
+
+max_steps: 200000
+log_every: 1000
+save_every: 1000
+max_sequence_length: 512
+cfg: 4.0
+accum_steps: 4
+optimizer: Prodigy
+
+adapter_scale: 0.9
+
+data_dir: "Path_to_dataset"
+pretrained_model_name_or_path: "Path_to_pretrained_FLUX_model"
+pretrained_adapter_path: "Path_to_pretrained_FLUX_adapter"
+pretrained_lora_dir: "Path_to_pretrained_lora"
+output_dir: "Path_to_save_training_ckpt"

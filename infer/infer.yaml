@@ -1,0 +1,12 @@
+seed: 42
+max_layer_num: 52
+
+data_dir: "Path_to_dataset"
+pretrained_model_name_or_path: "Path_to_pretrained_FLUX_model"
+pretrained_adapter_path: "Path_to_pretrained_FLUX_adapter"
+transp_vae_path: "Path_to_transparent_vae"
+pretrained_lora_dir: "Path_to_pretrained_lora"
+lora_ckpt: "Path_to_trained_lora"
+layer_ckpt: "Path_to_layer_pe_ckpt"
+adapter_lora_dir: "Path_to_adapter_lora"
+save_dir: "Path_to_save_results"
