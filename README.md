@@ -2,6 +2,9 @@
 
 ## Controllable Layer Decomposition for Reversible Multi-Layer Image Generation
 
+🏠 [Homepage](https://monkek123King.github.io/CLD_page)      📄 [Paper](http://arxiv.org/abs/2511.16249)      🤗 [HuggingFace](https://huggingface.co/papers/2511.16249)
+
+
 </div>
 
 
